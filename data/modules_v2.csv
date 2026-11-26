@@ -1,0 +1,53 @@
+﻿Module_Code,Module_Name,Department,Status
+IT101,IT Fundamentals,Computing,Active
+PF101,Programming Fundamentals,Computing,Active
+PY101,Python Programming,Computing,Active
+DB201,Database Systems,Computing,Active
+WD201,Web Development,Computing,Active
+NW201,Computer Networks,Cloud & Networks,Active
+IP301,Applied IT Project,Computing,Active
+FE201,Front-end Development,Computing,Active
+BE201,Back-end Development,Computing,Active
+ST301,Software Testing,Computing,Active
+SP301,Software Development Project,Computing,Active
+SF101,Statistics Fundamentals,AI & Data,Active
+EX201,Excel for Data Analytics,AI & Data,Active
+SQ201,SQL for Data Analytics,AI & Data,Active
+PA201,Python for Data Analytics,AI & Data,Active
+VI201,Data Visualisation,AI & Data,Active
+AP301,Applied Analytics Project,AI & Data,Active
+DP201,Data Preparation,AI & Data,Active
+ML301,Machine Learning,AI & Data,Active
+DL301,Deep Learning,AI & Data,Active
+GA301,Generative AI,AI & Data,Active
+AI401,Applied AI Project,AI & Data,Active
+LX201,Linux Administration,Cloud & Networks,Active
+CF101,Cloud Fundamentals,Cloud & Networks,Active
+CL301,Cloud Architecture,Cloud & Networks,Active
+DV301,DevOps and Automation,Cloud & Networks,Active
+CP301,Cloud Deployment Project,Cloud & Networks,Active
+CY301,Cybersecurity Fundamentals,Cloud & Networks,Active
+NS301,Network Security,Cloud & Networks,Active
+IR301,Incident Response,Cloud & Networks,Active
+MG201,Management Fundamentals,Business,Active
+CM201,Business Communication,Business & Languages,Active
+MK201,Marketing Fundamentals,Business,Active
+AC201,Financial Accounting,Business,Active
+HR201,Human Resource Management,Business,Active
+BS301,Business Strategy,Business,Active
+BP301,Applied Business Project,Business,Active
+CB201,Consumer Behaviour,Business,Active
+CT201,Content Marketing,Business,Active
+SM201,Social Media Marketing,Business,Active
+SEO201,Search Engine Optimisation,Business,Active
+MT301,Marketing Analytics,Business,Active
+PP201,Project Planning,Business,Active
+PS201,Project Scheduling,Business,Active
+RM201,Risk Management,Business,Active
+AG301,Agile Project Management,Business,Active
+PM301,Applied Project Management,Business,Active
+PE101,Professional English,Business & Languages,Active
+BW201,Business Writing,Business & Languages,Active
+PR201,Presentation Skills,Business & Languages,Active
+NG201,Negotiation Skills,Business & Languages,Active
+IC201,Intercultural Communication,Business & Languages,Active

@@ -1,0 +1,10 @@
+import React,{useEffect,useState} from 'react';
+import {request} from '../services/api';
+import './appointments.css';
+const path='/api/scheduling/notifications/';
+export default function NotificationBell({onOpenAppointments}){
+ const [data,D]=useState({unread:0,items:[]}),[open,O]=useState(false),[error,E]=useState('');
+ useEffect(()=>{let live=true;const load=()=>request(path).then(x=>{if(live){D(x);E('')}}).catch(e=>{if(live)E(e.message)});load();const timer=setInterval(load,15000);window.addEventListener('appointments-changed',load);return()=>{live=false;clearInterval(timer);window.removeEventListener('appointments-changed',load)}},[]);
+ async function mark(body){try{D(await request(path,{method:'POST',body:JSON.stringify(body)}));E('');return true}catch(e){E(e.message);return false}}
+ return <div className="notification-root"><button type="button" className="secondary notification-bell" aria-label={`Notifications (${data.unread} unread)`} aria-expanded={open} onClick={()=>O(!open)}><svg width="23" height="23" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.8" aria-hidden="true"><path d="M18 8a6 6 0 0 0-12 0c0 7-3 7-3 9h18c0-2-3-2-3-9M10 21h4" strokeLinecap="round" strokeLinejoin="round"/></svg>{data.unread>0&&<span className="notification-count">{data.unread>99?'99+':data.unread}</span>}</button>{open&&<section className="notification-popover" aria-label="Notifications"><div className="heading"><h3>Notifications</h3><button className="secondary" onClick={()=>O(false)}>Close</button></div><button className="secondary" disabled={!data.unread} onClick={()=>mark({all:true})}>Mark all as read</button>{error&&<p role="alert">{error}</p>}{!data.items.length&&<p>No notifications yet.</p>}{data.items.map(n=><button key={n.id} className={'notification-item '+(!n.read_at?'unread':'')} onClick={async()=>{if(await mark({id:n.id})){O(false);onOpenAppointments?.(n.appointment_id)}}}><strong>{n.message}</strong><small>{new Date(n.created_at).toLocaleString()}</small></button>)}</section>}</div>
+}

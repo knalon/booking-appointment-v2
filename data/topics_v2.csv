@@ -1,0 +1,262 @@
+﻿Topic_Code,Module_Code,Topic_Name,Status
+IT101-T001,IT101,Computer hardware,Active
+IT101-T002,IT101,Operating systems,Active
+IT101-T003,IT101,File management,Active
+IT101-T004,IT101,IT troubleshooting,Active
+IT101-T005,IT101,Digital safety,Active
+PF101-T001,PF101,Variables,Active
+PF101-T002,PF101,Control flow,Active
+PF101-T003,PF101,Algorithms,Active
+PF101-T004,PF101,Problem solving,Active
+PF101-T005,PF101,Pseudocode,Active
+PY101-T001,PY101,Functions,Active
+PY101-T002,PY101,Loops,Active
+PY101-T003,PY101,Debugging,Active
+PY101-T004,PY101,Data structures,Active
+PY101-T005,PY101,Object-oriented programming,Active
+PY101-T006,PY101,Exception handling,Active
+DB201-T001,DB201,SQL,Active
+DB201-T002,DB201,Database design,Active
+DB201-T003,DB201,Normalisation,Active
+DB201-T004,DB201,Joins,Active
+DB201-T005,DB201,Transactions,Active
+WD201-T001,WD201,HTML,Active
+WD201-T002,WD201,CSS,Active
+WD201-T003,WD201,JavaScript,Active
+WD201-T004,WD201,Responsive design,Active
+WD201-T005,WD201,Web accessibility,Active
+NW201-T001,NW201,Network protocols,Active
+NW201-T002,NW201,IP addressing,Active
+NW201-T003,NW201,Routing,Active
+NW201-T004,NW201,Switching,Active
+NW201-T005,NW201,Network troubleshooting,Active
+IP301-T001,IP301,Requirements,Active
+IP301-T002,IP301,Solution design,Active
+IP301-T003,IP301,Implementation,Active
+IP301-T004,IP301,Testing,Active
+IP301-T005,IP301,Documentation,Active
+FE201-T001,FE201,React components,Active
+FE201-T002,FE201,State management,Active
+FE201-T003,FE201,Forms,Active
+FE201-T004,FE201,API integration,Active
+FE201-T005,FE201,Accessibility,Active
+BE201-T001,BE201,REST APIs,Active
+BE201-T002,BE201,Authentication,Active
+BE201-T003,BE201,Database integration,Active
+BE201-T004,BE201,Server validation,Active
+BE201-T005,BE201,Deployment,Active
+ST301-T001,ST301,Unit testing,Active
+ST301-T002,ST301,Integration testing,Active
+ST301-T003,ST301,Test cases,Active
+ST301-T004,ST301,Defect reporting,Active
+ST301-T005,ST301,Regression testing,Active
+SP301-T001,SP301,Requirements,Active
+SP301-T002,SP301,Architecture,Active
+SP301-T003,SP301,Version control,Active
+SP301-T004,SP301,Testing,Active
+SP301-T005,SP301,Deployment,Active
+SF101-T001,SF101,Descriptive statistics,Active
+SF101-T002,SF101,Probability,Active
+SF101-T003,SF101,Sampling,Active
+SF101-T004,SF101,Hypothesis testing,Active
+SF101-T005,SF101,Correlation,Active
+EX201-T001,EX201,Formulas,Active
+EX201-T002,EX201,Data cleaning,Active
+EX201-T003,EX201,Pivot tables,Active
+EX201-T004,EX201,Charts,Active
+EX201-T005,EX201,Power Query,Active
+SQ201-T001,SQ201,Filtering,Active
+SQ201-T002,SQ201,Joins,Active
+SQ201-T003,SQ201,Aggregation,Active
+SQ201-T004,SQ201,Window functions,Active
+SQ201-T005,SQ201,Query optimisation,Active
+PA201-T001,PA201,Pandas,Active
+PA201-T002,PA201,NumPy,Active
+PA201-T003,PA201,Data cleaning,Active
+PA201-T004,PA201,Exploratory analysis,Active
+PA201-T005,PA201,Data transformation,Active
+VI201-T001,VI201,Chart selection,Active
+VI201-T002,VI201,Dashboards,Active
+VI201-T003,VI201,Visual storytelling,Active
+VI201-T004,VI201,Data labels,Active
+VI201-T005,VI201,Visual accessibility,Active
+AP301-T001,AP301,Problem framing,Active
+AP301-T002,AP301,Data collection,Active
+AP301-T003,AP301,Analysis,Active
+AP301-T004,AP301,Dashboard,Active
+AP301-T005,AP301,Recommendations,Active
+DP201-T001,DP201,Missing values,Active
+DP201-T002,DP201,Encoding,Active
+DP201-T003,DP201,Scaling,Active
+DP201-T004,DP201,Feature engineering,Active
+DP201-T005,DP201,Data leakage,Active
+ML301-T001,ML301,Regression,Active
+ML301-T002,ML301,Classification,Active
+ML301-T003,ML301,Clustering,Active
+ML301-T004,ML301,Model evaluation,Active
+ML301-T005,ML301,Cross-validation,Active
+DL301-T001,DL301,Neural networks,Active
+DL301-T002,DL301,Training,Active
+DL301-T003,DL301,CNNs,Active
+DL301-T004,DL301,Sequence models,Active
+DL301-T005,DL301,Regularisation,Active
+GA301-T001,GA301,Language models,Active
+GA301-T002,GA301,Prompt design,Active
+GA301-T003,GA301,Retrieval,Active
+GA301-T004,GA301,Evaluation,Active
+GA301-T005,GA301,Responsible AI,Active
+AI401-T001,AI401,Problem framing,Active
+AI401-T002,AI401,Model selection,Active
+AI401-T003,AI401,Evaluation,Active
+AI401-T004,AI401,Deployment,Active
+AI401-T005,AI401,Documentation,Active
+LX201-T001,LX201,Shell commands,Active
+LX201-T002,LX201,Permissions,Active
+LX201-T003,LX201,Services,Active
+LX201-T004,LX201,Package management,Active
+LX201-T005,LX201,System logs,Active
+CF101-T001,CF101,Service models,Active
+CF101-T002,CF101,Virtualisation,Active
+CF101-T003,CF101,Cloud storage,Active
+CF101-T004,CF101,Identity,Active
+CF101-T005,CF101,Cost basics,Active
+CL301-T001,CL301,Virtual networks,Active
+CL301-T002,CL301,Scalability,Active
+CL301-T003,CL301,Availability,Active
+CL301-T004,CL301,Storage design,Active
+CL301-T005,CL301,Security architecture,Active
+DV301-T001,DV301,CI/CD,Active
+DV301-T002,DV301,Docker,Active
+DV301-T003,DV301,Infrastructure as code,Active
+DV301-T004,DV301,Monitoring,Active
+DV301-T005,DV301,Release management,Active
+CP301-T001,CP301,Deployment planning,Active
+CP301-T002,CP301,Infrastructure,Active
+CP301-T003,CP301,Security,Active
+CP301-T004,CP301,Monitoring,Active
+CP301-T005,CP301,Documentation,Active
+CY301-T001,CY301,Security principles,Active
+CY301-T002,CY301,Threats,Active
+CY301-T003,CY301,Access control,Active
+CY301-T004,CY301,Risk,Active
+CY301-T005,CY301,Security awareness,Active
+NS301-T001,NS301,Firewalls,Active
+NS301-T002,NS301,Segmentation,Active
+NS301-T003,NS301,VPNs,Active
+NS301-T004,NS301,Secure protocols,Active
+NS301-T005,NS301,Monitoring,Active
+IR301-T001,IR301,Incident triage,Active
+IR301-T002,IR301,Containment,Active
+IR301-T003,IR301,Recovery,Active
+IR301-T004,IR301,Evidence handling,Active
+IR301-T005,IR301,Reporting,Active
+MG201-T001,MG201,Planning,Active
+MG201-T002,MG201,Organising,Active
+MG201-T003,MG201,Leadership,Active
+MG201-T004,MG201,Decision making,Active
+MG201-T005,MG201,Performance,Active
+CM201-T001,CM201,Active listening,Active
+CM201-T002,CM201,Professional email,Active
+CM201-T003,CM201,Meetings,Active
+CM201-T004,CM201,Feedback,Active
+CM201-T005,CM201,Stakeholder communication,Active
+MK201-T001,MK201,Segmentation,Active
+MK201-T002,MK201,Targeting,Active
+MK201-T003,MK201,Positioning,Active
+MK201-T004,MK201,Marketing mix,Active
+MK201-T005,MK201,Branding,Active
+AC201-T001,AC201,Journal entries,Active
+AC201-T002,AC201,Financial statements,Active
+AC201-T003,AC201,Cash flow,Active
+AC201-T004,AC201,Budgeting,Active
+AC201-T005,AC201,Cost classification,Active
+HR201-T001,HR201,Recruitment,Active
+HR201-T002,HR201,Training,Active
+HR201-T003,HR201,Performance management,Active
+HR201-T004,HR201,Employee relations,Active
+HR201-T005,HR201,Workforce planning,Active
+BS301-T001,BS301,SWOT analysis,Active
+BS301-T002,BS301,Competitive advantage,Active
+BS301-T003,BS301,Strategic planning,Active
+BS301-T004,BS301,Implementation,Active
+BS301-T005,BS301,KPIs,Active
+BP301-T001,BP301,Business problem,Active
+BP301-T002,BP301,Market research,Active
+BP301-T003,BP301,Financial planning,Active
+BP301-T004,BP301,Implementation,Active
+BP301-T005,BP301,Presentation,Active
+CB201-T001,CB201,Motivation,Active
+CB201-T002,CB201,Perception,Active
+CB201-T003,CB201,Attitudes,Active
+CB201-T004,CB201,Decision process,Active
+CB201-T005,CB201,Social influence,Active
+CT201-T001,CT201,Content strategy,Active
+CT201-T002,CT201,Audience research,Active
+CT201-T003,CT201,Copywriting,Active
+CT201-T004,CT201,Editorial planning,Active
+CT201-T005,CT201,Content evaluation,Active
+SM201-T001,SM201,Platform strategy,Active
+SM201-T002,SM201,Campaign planning,Active
+SM201-T003,SM201,Community management,Active
+SM201-T004,SM201,Metrics,Active
+SM201-T005,SM201,Paid media,Active
+SEO201-T001,SEO201,Keyword research,Active
+SEO201-T002,SEO201,On-page SEO,Active
+SEO201-T003,SEO201,Technical SEO,Active
+SEO201-T004,SEO201,Content optimisation,Active
+SEO201-T005,SEO201,Analytics,Active
+MT301-T001,MT301,Campaign metrics,Active
+MT301-T002,MT301,Conversion tracking,Active
+MT301-T003,MT301,Attribution,Active
+MT301-T004,MT301,Reporting,Active
+MT301-T005,MT301,Experimentation,Active
+PP201-T001,PP201,Scope,Active
+PP201-T002,PP201,Work breakdown structure,Active
+PP201-T003,PP201,Resources,Active
+PP201-T004,PP201,Stakeholders,Active
+PP201-T005,PP201,Deliverables,Active
+PS201-T001,PS201,Task dependencies,Active
+PS201-T002,PS201,Milestones,Active
+PS201-T003,PS201,Gantt charts,Active
+PS201-T004,PS201,Critical path,Active
+PS201-T005,PS201,Schedule control,Active
+RM201-T001,RM201,Risk identification,Active
+RM201-T002,RM201,Assessment,Active
+RM201-T003,RM201,Mitigation,Active
+RM201-T004,RM201,Risk register,Active
+RM201-T005,RM201,Monitoring,Active
+AG301-T001,AG301,Scrum,Active
+AG301-T002,AG301,Kanban,Active
+AG301-T003,AG301,Backlogs,Active
+AG301-T004,AG301,Sprint planning,Active
+AG301-T005,AG301,Retrospectives,Active
+PM301-T001,PM301,Project charter,Active
+PM301-T002,PM301,Execution,Active
+PM301-T003,PM301,Monitoring,Active
+PM301-T004,PM301,Change control,Active
+PM301-T005,PM301,Closure,Active
+PE101-T001,PE101,Vocabulary,Active
+PE101-T002,PE101,Grammar,Active
+PE101-T003,PE101,Listening,Active
+PE101-T004,PE101,Speaking,Active
+PE101-T005,PE101,Professional register,Active
+BW201-T001,BW201,Email writing,Active
+BW201-T002,BW201,Reports,Active
+BW201-T003,BW201,Proposals,Active
+BW201-T004,BW201,Editing,Active
+BW201-T005,BW201,Tone,Active
+PR201-T001,PR201,Structure,Active
+PR201-T002,PR201,Slide design,Active
+PR201-T003,PR201,Delivery,Active
+PR201-T004,PR201,Audience engagement,Active
+PR201-T005,PR201,Questions,Active
+NG201-T001,NG201,Preparation,Active
+NG201-T002,NG201,Interests,Active
+NG201-T003,NG201,Bargaining,Active
+NG201-T004,NG201,Conflict resolution,Active
+NG201-T005,NG201,Agreement,Active
+IC201-T001,IC201,Cultural awareness,Active
+IC201-T002,IC201,Communication styles,Active
+IC201-T003,IC201,Misunderstandings,Active
+IC201-T004,IC201,Inclusive language,Active
+IC201-T005,IC201,Collaboration,Active

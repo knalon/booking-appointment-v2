@@ -1,0 +1,301 @@
+﻿Learner_ID,Full_Name,Email,Qualification,Current_Module_Code,Time_Zone,Preferred_Consultation_Mode,Preferred_Language,Status,Current_Module_Codes
+L001,Alex Tan,l001@example.invalid,DIT,IP301,Asia/Singapore,Online,English,Active,IP301
+L002,Priya Kumar,l002@example.invalid,DSD,PF101,Asia/Singapore,Online; Face-to-face,English,Active,PF101; PY101
+L003,Daniel Wong,l003@example.invalid,DDA,VI201,Asia/Singapore,Online,English,Active,VI201; AP301
+L0004,Hana Kim,l0004@example.invalid,DAI,PY101,Asia/Singapore,Online; Face-to-face,English; Myanmar,Active,PY101; SF101
+L0005,Mei Rahman,l0005@example.invalid,DCC,CL301,Asia/Singapore,Online; Face-to-face,English,Active,CL301
+L0006,Min Anderson,l0006@example.invalid,DCS,NW201,Asia/Singapore,Online,English; Chinese,Active,NW201
+L0007,Aung Liu,l0007@example.invalid,DBM,MK201,Asia/Singapore,Online; Face-to-face,English; Chinese,Active,MK201; AC201
+L0008,Emily Patel,l0008@example.invalid,DDM,SEO201,Asia/Singapore,Online; Face-to-face,English; Myanmar,Active,SEO201
+L0009,Chloe Rahman,l0009@example.invalid,DPM,MG201,Asia/Singapore,Online; Face-to-face,English,Active,MG201; PP201
+L0010,Min Martin,l0010@example.invalid,DBC,BW201,Asia/Singapore,Online; Face-to-face,English; Chinese,Active,BW201; PR201
+L0011,Mei Singh,l0011@example.invalid,DIT,PY101,Asia/Singapore,Online,English; Myanmar,Active,PY101; DB201
+L0012,Zaw Zin,l0012@example.invalid,DSD,PY101,Asia/Singapore,Online; Face-to-face,English,Active,PY101; DB201
+L0013,Aaron Hlaing,l0013@example.invalid,DDA,SQ201,Asia/Singapore,Face-to-face,English; Chinese,Active,SQ201; PA201
+L0014,Zaw Park,l0014@example.invalid,DAI,ML301,Asia/Singapore,Face-to-face,English,Active,ML301
+L0015,Liam Lee,l0015@example.invalid,DCC,CL301,Asia/Singapore,Face-to-face,English; Myanmar,Active,CL301; DV301
+L0016,Mei Kim,l0016@example.invalid,DCS,NS301,Asia/Singapore,Face-to-face,English; Myanmar,Active,NS301
+L0017,Liam Martin,l0017@example.invalid,DBM,HR201,Asia/Singapore,Online; Face-to-face,English; Chinese,Inactive,HR201; BS301
+L0018,Ibrahim Win,l0018@example.invalid,DDM,CB201,Asia/Singapore,Online,English; Myanmar,Active,CB201; CT201
+L0019,Hana Tan,l0019@example.invalid,DPM,RM201,Asia/Singapore,Online; Face-to-face,English,Active,RM201; AG301
+L0020,Sara Johnson,l0020@example.invalid,DBC,IC201,Asia/Singapore,Face-to-face,English,Active,IC201
+L0021,Mina Garcia,l0021@example.invalid,DIT,WD201,Asia/Singapore,Online; Face-to-face,English; Chinese,Active,WD201; NW201
+L0022,Emily Taylor,l0022@example.invalid,DSD,PY101,Asia/Singapore,Online,English; Chinese,Active,PY101; DB201
+L0023,Nathan Taylor,l0023@example.invalid,DDA,PA201,Asia/Singapore,Face-to-face,English; Chinese,Active,PA201; VI201
+L0024,Nina Lee,l0024@example.invalid,DAI,PY101,Asia/Singapore,Online,English; Chinese,Active,PY101; SF101
+L0025,Zaw Johnson,l0025@example.invalid,DCC,CP301,Asia/Singapore,Online; Face-to-face,English; Chinese,Active,CP301
+L0026,Thiri Clark,l0026@example.invalid,DCS,IR301,Asia/Singapore,Face-to-face,English; Chinese,Active,IR301
+L0027,Lucas Anderson,l0027@example.invalid,DBM,CM201,Asia/Singapore,Online,English; Chinese,Active,CM201
+L0028,Sofia Hlaing,l0028@example.invalid,DDM,SM201,Asia/Singapore,Online,English; Chinese,Active,SM201; SEO201
+L0029,Thiri Rahman,l0029@example.invalid,DPM,AG301,Asia/Singapore,Online; Face-to-face,English,Active,AG301; PM301
+L0030,Zaw Thet,l0030@example.invalid,DBC,PE101,Asia/Singapore,Face-to-face,English; Chinese,Active,PE101; CM201
+L0031,Zaw Taylor,l0031@example.invalid,DIT,IP301,Asia/Singapore,Face-to-face,English; Myanmar,Active,IP301
+L0032,Grace Martin,l0032@example.invalid,DSD,BE201,Asia/Singapore,Online; Face-to-face,English,Active,BE201; ST301
+L0033,Min Park,l0033@example.invalid,DDA,SF101,Asia/Singapore,Face-to-face,English,Active,SF101; EX201
+L0034,Priya Lee,l0034@example.invalid,DAI,DP201,Asia/Singapore,Face-to-face,English; Chinese,Active,DP201; ML301
+L0035,Grace Kim,l0035@example.invalid,DCC,CF101,Asia/Singapore,Online; Face-to-face,English; Chinese,Active,CF101
+L0036,Priya Brown,l0036@example.invalid,DCS,NS301,Asia/Singapore,Online,English; Chinese,Active,NS301
+L0037,Mila Martin,l0037@example.invalid,DBM,MK201,Asia/Singapore,Online,English; Myanmar,Active,MK201
+L0038,Thiri Clark 38,l0038@example.invalid,DDM,SEO201,Asia/Singapore,Online,English; Myanmar,Active,SEO201; MT301
+L0039,Nina Wong,l0039@example.invalid,DPM,PP201,Asia/Singapore,Online; Face-to-face,English; Myanmar,Inactive,PP201; PS201
+L0040,Ryan Kim,l0040@example.invalid,DBC,PR201,Asia/Singapore,Online,English,Active,PR201; NG201
+L0041,Ryan Win,l0041@example.invalid,DIT,DB201,Asia/Singapore,Face-to-face,English; Chinese,Active,DB201
+L0042,Daniel Nguyen,l0042@example.invalid,DSD,PF101,Asia/Singapore,Online; Face-to-face,English; Myanmar,Active,PF101; PY101
+L0043,Jasmine Park,l0043@example.invalid,DDA,AP301,Asia/Singapore,Online; Face-to-face,English; Myanmar,Active,AP301
+L0044,Sofia Tan,l0044@example.invalid,DAI,ML301,Asia/Singapore,Face-to-face,English,Active,ML301
+L0045,Sara Tan,l0045@example.invalid,DCC,CP301,Asia/Singapore,Online; Face-to-face,English,Active,CP301
+L0046,Alex Davis,l0046@example.invalid,DCS,IT101,Asia/Singapore,Online,English; Myanmar,Active,IT101; NW201
+L0047,Zaw Davis,l0047@example.invalid,DBM,CM201,Asia/Singapore,Face-to-face,English; Myanmar,Active,CM201; MK201
+L0048,Nandar Clark,l0048@example.invalid,DDM,MK201,Asia/Singapore,Online,English; Chinese,Active,MK201
+L0049,Kyaw Rahman,l0049@example.invalid,DPM,PS201,Asia/Singapore,Online; Face-to-face,English,Active,PS201
+L0050,Aung Martin,l0050@example.invalid,DBC,PE101,Asia/Singapore,Online; Face-to-face,English; Myanmar,Active,PE101
+L0051,Jasmine Clark,l0051@example.invalid,DIT,PY101,Asia/Singapore,Face-to-face,English; Chinese,Active,PY101; DB201
+L0052,Sofia Thet,l0052@example.invalid,DSD,FE201,Asia/Singapore,Face-to-face,English,Active,FE201; BE201
+L0053,Aisha Kumar,l0053@example.invalid,DDA,EX201,Asia/Singapore,Online; Face-to-face,English; Myanmar,Active,EX201
+L0054,Mei Rahman 54,l0054@example.invalid,DAI,GA301,Asia/Singapore,Face-to-face,English; Myanmar,Active,GA301; AI401
+L0055,Sofia Rahman,l0055@example.invalid,DCC,LX201,Asia/Singapore,Face-to-face,English; Chinese,Active,LX201; CF101
+L0056,Aisha Tan,l0056@example.invalid,DCS,LX201,Asia/Singapore,Online; Face-to-face,English; Chinese,Active,LX201; CY301
+L0057,Mya Lee,l0057@example.invalid,DBM,MG201,Asia/Singapore,Online,English; Myanmar,Active,MG201; CM201
+L0058,Mya Anderson,l0058@example.invalid,DDM,MK201,Asia/Singapore,Face-to-face,English; Myanmar,Active,MK201
+L0059,Cherry Kim,l0059@example.invalid,DPM,MG201,Asia/Singapore,Online; Face-to-face,English; Myanmar,Active,MG201; PP201
+L0060,Sara Kumar,l0060@example.invalid,DBC,IC201,Asia/Singapore,Online,English; Myanmar,Active,IC201
+L0061,Aung Patel,l0061@example.invalid,DIT,DB201,Asia/Singapore,Online; Face-to-face,English; Myanmar,Active,DB201; WD201
+L0062,Ibrahim Kumar,l0062@example.invalid,DSD,PF101,Asia/Singapore,Online,English; Chinese,Active,PF101
+L0063,David Wong,l0063@example.invalid,DDA,PA201,Asia/Singapore,Face-to-face,English; Chinese,Active,PA201; VI201
+L0064,Mya Hlaing,l0064@example.invalid,DAI,DL301,Asia/Singapore,Online,English; Chinese,Inactive,DL301
+L0065,Grace Oo,l0065@example.invalid,DCC,LX201,Asia/Singapore,Online,English; Chinese,Active,LX201
+L0066,Daniel Wong 66,l0066@example.invalid,DCS,IT101,Asia/Singapore,Online; Face-to-face,English; Chinese,Active,IT101
+L0067,Emily Tan,l0067@example.invalid,DBM,MK201,Asia/Singapore,Online; Face-to-face,English; Myanmar,Active,MK201; AC201
+L0068,Emily Wong,l0068@example.invalid,DDM,CT201,Asia/Singapore,Face-to-face,English; Myanmar,Active,CT201
+L0069,Liam Oo,l0069@example.invalid,DPM,AG301,Asia/Singapore,Online,English; Myanmar,Active,AG301; PM301
+L0070,May Clark,l0070@example.invalid,DBC,BW201,Asia/Singapore,Online,English; Myanmar,Active,BW201
+L0071,Nathan Rahman,l0071@example.invalid,DIT,NW201,Asia/Singapore,Online,English,Active,NW201
+L0072,Chloe Singh,l0072@example.invalid,DSD,PY101,Asia/Singapore,Face-to-face,English; Myanmar,Active,PY101; DB201
+L0073,David Martin,l0073@example.invalid,DDA,VI201,Asia/Singapore,Online,English; Chinese,Active,VI201; AP301
+L0074,Su Martin,l0074@example.invalid,DAI,DL301,Asia/Singapore,Online; Face-to-face,English; Myanmar,Active,DL301; GA301
+L0075,Cherry Sharma,l0075@example.invalid,DCC,CP301,Asia/Singapore,Face-to-face,English; Myanmar,Active,CP301
+L0076,Mya Chen,l0076@example.invalid,DCS,NS301,Asia/Singapore,Online; Face-to-face,English; Myanmar,Active,NS301
+L0077,Min Aung,l0077@example.invalid,DBM,MG201,Asia/Singapore,Face-to-face,English; Chinese,Active,MG201; CM201
+L0078,Htet Nguyen,l0078@example.invalid,DDM,MK201,Asia/Singapore,Online,English,Active,MK201; CB201
+L0079,Ibrahim Zin,l0079@example.invalid,DPM,MG201,Asia/Singapore,Online; Face-to-face,English; Myanmar,Active,MG201; PP201
+L0080,Grace Lim,l0080@example.invalid,DBC,PR201,Asia/Singapore,Online,English; Chinese,Active,PR201; NG201
+L0081,Yadanar Liu,l0081@example.invalid,DIT,IP301,Asia/Singapore,Face-to-face,English; Myanmar,Active,IP301
+L0082,Su Lee,l0082@example.invalid,DSD,BE201,Asia/Singapore,Online,English; Chinese,Active,BE201; ST301
+L0083,Aung Nguyen,l0083@example.invalid,DDA,SF101,Asia/Singapore,Online; Face-to-face,English; Myanmar,Active,SF101; EX201
+L0084,Aung Thet,l0084@example.invalid,DAI,ML301,Asia/Singapore,Online; Face-to-face,English; Chinese,Active,ML301; DL301
+L0085,Hana Clark,l0085@example.invalid,DCC,CL301,Asia/Singapore,Online; Face-to-face,English,Active,CL301
+L0086,Chloe Singh 86,l0086@example.invalid,DCS,CY301,Asia/Singapore,Face-to-face,English,Active,CY301
+L0087,Yadanar Davis,l0087@example.invalid,DBM,HR201,Asia/Singapore,Online; Face-to-face,English; Chinese,Active,HR201; BS301
+L0088,Sofia Clark,l0088@example.invalid,DDM,SM201,Asia/Singapore,Online; Face-to-face,English,Inactive,SM201; SEO201
+L0089,Mya Wilson,l0089@example.invalid,DPM,PP201,Asia/Singapore,Online,English,Active,PP201
+L0090,Ko Taylor,l0090@example.invalid,DBC,NG201,Asia/Singapore,Face-to-face,English; Chinese,Active,NG201
+L0091,Min Win,l0091@example.invalid,DIT,DB201,Asia/Singapore,Face-to-face,English; Chinese,Active,DB201; WD201
+L0092,Emily Wilson,l0092@example.invalid,DSD,ST301,Asia/Singapore,Online,English; Chinese,Active,ST301
+L0093,Chloe Aung,l0093@example.invalid,DDA,SF101,Asia/Singapore,Face-to-face,English; Chinese,Active,SF101; EX201
+L0094,Nathan Taylor 94,l0094@example.invalid,DAI,ML301,Asia/Singapore,Online; Face-to-face,English; Myanmar,Active,ML301; DL301
+L0095,Oliver Taylor,l0095@example.invalid,DCC,CF101,Asia/Singapore,Online,English; Myanmar,Active,CF101; CL301
+L0096,Nina Kumar,l0096@example.invalid,DCS,NW201,Asia/Singapore,Online; Face-to-face,English; Chinese,Active,NW201
+L0097,Cherry Oo,l0097@example.invalid,DBM,MG201,Asia/Singapore,Face-to-face,English; Myanmar,Active,MG201; CM201
+L0098,Hana Singh,l0098@example.invalid,DDM,SEO201,Asia/Singapore,Face-to-face,English; Myanmar,Active,SEO201; MT301
+L0099,May Win,l0099@example.invalid,DPM,PP201,Asia/Singapore,Online,English; Myanmar,Active,PP201; PS201
+L0100,Hana Thet,l0100@example.invalid,DBC,IC201,Asia/Singapore,Online; Face-to-face,English,Active,IC201
+L0101,Liam Anderson,l0101@example.invalid,DIT,PY101,Asia/Singapore,Face-to-face,English,Active,PY101
+L0102,Liam Tan,l0102@example.invalid,DSD,PY101,Asia/Singapore,Face-to-face,English; Myanmar,Active,PY101; DB201
+L0103,Priya Anderson,l0103@example.invalid,DDA,SQ201,Asia/Singapore,Online; Face-to-face,English; Myanmar,Active,SQ201; PA201
+L0104,Yadanar Wong,l0104@example.invalid,DAI,DL301,Asia/Singapore,Online; Face-to-face,English; Chinese,Active,DL301; GA301
+L0105,Aisha Taylor,l0105@example.invalid,DCC,CF101,Asia/Singapore,Online,English; Myanmar,Active,CF101; CL301
+L0106,Mina Taylor,l0106@example.invalid,DCS,NW201,Asia/Singapore,Online; Face-to-face,English,Active,NW201
+L0107,Jasmine Tan,l0107@example.invalid,DBM,CM201,Asia/Singapore,Face-to-face,English; Myanmar,Active,CM201
+L0108,Emily Wong 108,l0108@example.invalid,DDM,MT301,Asia/Singapore,Online,English; Myanmar,Active,MT301
+L0109,Aung Brown,l0109@example.invalid,DPM,PS201,Asia/Singapore,Face-to-face,English; Myanmar,Active,PS201
+L0110,Noah Taylor,l0110@example.invalid,DBC,PE101,Asia/Singapore,Online; Face-to-face,English; Myanmar,Active,PE101; CM201
+L0111,Nina Johnson,l0111@example.invalid,DIT,WD201,Asia/Singapore,Online; Face-to-face,English; Myanmar,Active,WD201
+L0112,Sara Davis,l0112@example.invalid,DSD,PF101,Asia/Singapore,Face-to-face,English; Myanmar,Active,PF101
+L0113,Ei Patel,l0113@example.invalid,DDA,SF101,Asia/Singapore,Online; Face-to-face,English; Myanmar,Active,SF101
+L0114,Ibrahim Singh,l0114@example.invalid,DAI,ML301,Asia/Singapore,Online; Face-to-face,English; Myanmar,Active,ML301
+L0115,David Chen,l0115@example.invalid,DCC,CP301,Asia/Singapore,Online,English; Chinese,Active,CP301
+L0116,Aisha Martin,l0116@example.invalid,DCS,IT101,Asia/Singapore,Online; Face-to-face,English; Chinese,Active,IT101; NW201
+L0117,Zaw Kim,l0117@example.invalid,DBM,MG201,Asia/Singapore,Online,English,Active,MG201; CM201
+L0118,May Patel,l0118@example.invalid,DDM,CT201,Asia/Singapore,Face-to-face,English,Active,CT201; SM201
+L0119,Aisha Lee,l0119@example.invalid,DPM,PS201,Asia/Singapore,Online,English; Myanmar,Inactive,PS201; RM201
+L0120,Nandar Singh,l0120@example.invalid,DBC,BW201,Asia/Singapore,Face-to-face,English; Myanmar,Active,BW201; PR201
+L0121,May Hlaing,l0121@example.invalid,DIT,PF101,Asia/Singapore,Face-to-face,English; Chinese,Active,PF101; PY101
+L0122,Grace Wong,l0122@example.invalid,DSD,PY101,Asia/Singapore,Online,English; Chinese,Active,PY101; DB201
+L0123,Cherry Win,l0123@example.invalid,DDA,EX201,Asia/Singapore,Face-to-face,English; Myanmar,Active,EX201
+L0124,Liam Sharma,l0124@example.invalid,DAI,DL301,Asia/Singapore,Online; Face-to-face,English; Chinese,Active,DL301; GA301
+L0125,Cherry Brown,l0125@example.invalid,DCC,CL301,Asia/Singapore,Online,English; Myanmar,Active,CL301; DV301
+L0126,Oliver Tan,l0126@example.invalid,DCS,IR301,Asia/Singapore,Online; Face-to-face,English; Chinese,Active,IR301
+L0127,Priya Martin,l0127@example.invalid,DBM,HR201,Asia/Singapore,Online,English; Chinese,Active,HR201
+L0128,Htet Liu,l0128@example.invalid,DDM,MT301,Asia/Singapore,Online; Face-to-face,English; Chinese,Active,MT301
+L0129,Nathan Wilson,l0129@example.invalid,DPM,MG201,Asia/Singapore,Face-to-face,English; Myanmar,Active,MG201
+L0130,Mei Kumar,l0130@example.invalid,DBC,NG201,Asia/Singapore,Face-to-face,English; Chinese,Active,NG201; IC201
+L0131,Aung Chen,l0131@example.invalid,DIT,PY101,Asia/Singapore,Online; Face-to-face,English; Chinese,Active,PY101; DB201
+L0132,Zaw Davis 132,l0132@example.invalid,DSD,ST301,Asia/Singapore,Face-to-face,English,Active,ST301; SP301
+L0133,Sara Win,l0133@example.invalid,DDA,PA201,Asia/Singapore,Online,English; Myanmar,Active,PA201; VI201
+L0134,Mei Anderson,l0134@example.invalid,DAI,PY101,Asia/Singapore,Face-to-face,English; Myanmar,Active,PY101; SF101
+L0135,Mei Lim,l0135@example.invalid,DCC,NW201,Asia/Singapore,Face-to-face,English; Myanmar,Active,NW201
+L0136,Aisha Garcia,l0136@example.invalid,DCS,NS301,Asia/Singapore,Online; Face-to-face,English; Chinese,Active,NS301; IR301
+L0137,Oliver Thet,l0137@example.invalid,DBM,CM201,Asia/Singapore,Face-to-face,English; Myanmar,Active,CM201; MK201
+L0138,Sara Wilson,l0138@example.invalid,DDM,SM201,Asia/Singapore,Online,English; Myanmar,Active,SM201
+L0139,May Singh,l0139@example.invalid,DPM,PP201,Asia/Singapore,Online; Face-to-face,English,Active,PP201; PS201
+L0140,Mya Johnson,l0140@example.invalid,DBC,PE101,Asia/Singapore,Online; Face-to-face,English; Chinese,Active,PE101; CM201
+L0141,Ethan Sharma,l0141@example.invalid,DIT,PY101,Asia/Singapore,Online,English; Myanmar,Active,PY101; DB201
+L0142,Oliver Martin,l0142@example.invalid,DSD,PY101,Asia/Singapore,Online,English; Myanmar,Active,PY101; DB201
+L0143,Kyaw Garcia,l0143@example.invalid,DDA,SF101,Asia/Singapore,Face-to-face,English; Chinese,Inactive,SF101
+L0144,Mya Brown,l0144@example.invalid,DAI,DP201,Asia/Singapore,Online; Face-to-face,English; Chinese,Active,DP201; ML301
+L0145,Yadanar Wilson,l0145@example.invalid,DCC,NW201,Asia/Singapore,Online,English,Active,NW201
+L0146,Thiri Nguyen,l0146@example.invalid,DCS,NW201,Asia/Singapore,Online,English; Chinese,Active,NW201; LX201
+L0147,Lucas Clark,l0147@example.invalid,DBM,HR201,Asia/Singapore,Online,English,Active,HR201
+L0148,Ethan Wong,l0148@example.invalid,DDM,SM201,Asia/Singapore,Face-to-face,English; Chinese,Active,SM201; SEO201
+L0149,Mya Lim,l0149@example.invalid,DPM,PP201,Asia/Singapore,Face-to-face,English,Active,PP201; PS201
+L0150,Ryan Win 150,l0150@example.invalid,DBC,CM201,Asia/Singapore,Online,English,Active,CM201; BW201
+L0151,Ei Lee,l0151@example.invalid,DIT,PF101,Asia/Singapore,Online,English; Chinese,Active,PF101; PY101
+L0152,Nathan Thet,l0152@example.invalid,DSD,DB201,Asia/Singapore,Online,English; Chinese,Active,DB201; FE201
+L0153,Mei Tan,l0153@example.invalid,DDA,SQ201,Asia/Singapore,Online,English; Chinese,Active,SQ201
+L0154,May Hlaing 154,l0154@example.invalid,DAI,DL301,Asia/Singapore,Online; Face-to-face,English; Chinese,Active,DL301; GA301
+L0155,Emily Kumar,l0155@example.invalid,DCC,DV301,Asia/Singapore,Online; Face-to-face,English; Chinese,Active,DV301; CP301
+L0156,Aisha Zin,l0156@example.invalid,DCS,NW201,Asia/Singapore,Online,English; Chinese,Active,NW201; LX201
+L0157,Nandar Thet,l0157@example.invalid,DBM,MG201,Asia/Singapore,Face-to-face,English; Chinese,Active,MG201
+L0158,May Smith,l0158@example.invalid,DDM,SEO201,Asia/Singapore,Online,English; Myanmar,Active,SEO201; MT301
+L0159,Chloe Davis,l0159@example.invalid,DPM,MG201,Asia/Singapore,Online; Face-to-face,English; Myanmar,Active,MG201
+L0160,Noah Johnson,l0160@example.invalid,DBC,BW201,Asia/Singapore,Online; Face-to-face,English; Chinese,Active,BW201
+L0161,Ei Taylor,l0161@example.invalid,DIT,PY101,Asia/Singapore,Online,English; Myanmar,Active,PY101
+L0162,Noah Sharma,l0162@example.invalid,DSD,ST301,Asia/Singapore,Online,English; Myanmar,Active,ST301
+L0163,Min Kim,l0163@example.invalid,DDA,SQ201,Asia/Singapore,Online,English,Active,SQ201
+L0164,Lucas Taylor,l0164@example.invalid,DAI,ML301,Asia/Singapore,Face-to-face,English; Chinese,Active,ML301; DL301
+L0165,Sofia Thet 165,l0165@example.invalid,DCC,LX201,Asia/Singapore,Online; Face-to-face,English; Chinese,Active,LX201; CF101
+L0166,Nina Johnson 166,l0166@example.invalid,DCS,IR301,Asia/Singapore,Online; Face-to-face,English; Chinese,Active,IR301
+L0167,Htet Liu 167,l0167@example.invalid,DBM,CM201,Asia/Singapore,Face-to-face,English; Myanmar,Active,CM201
+L0168,Nina Win,l0168@example.invalid,DDM,SM201,Asia/Singapore,Face-to-face,English,Active,SM201; SEO201
+L0169,Min Brown,l0169@example.invalid,DPM,PM301,Asia/Singapore,Face-to-face,English; Myanmar,Active,PM301
+L0170,Alex Taylor,l0170@example.invalid,DBC,PR201,Asia/Singapore,Face-to-face,English; Myanmar,Active,PR201; NG201
+L0171,Jasmine Wilson,l0171@example.invalid,DIT,NW201,Asia/Singapore,Online,English,Active,NW201; IP301
+L0172,Mei Taylor,l0172@example.invalid,DSD,FE201,Asia/Singapore,Online; Face-to-face,English; Myanmar,Active,FE201; BE201
+L0173,Ibrahim Anderson,l0173@example.invalid,DDA,EX201,Asia/Singapore,Online; Face-to-face,English; Myanmar,Active,EX201
+L0174,Liam Patel,l0174@example.invalid,DAI,SF101,Asia/Singapore,Online,English; Chinese,Active,SF101; DP201
+L0175,Min Nguyen,l0175@example.invalid,DCC,CL301,Asia/Singapore,Online; Face-to-face,English; Chinese,Active,CL301; DV301
+L0176,Su Oo,l0176@example.invalid,DCS,NW201,Asia/Singapore,Online,English,Active,NW201; LX201
+L0177,Alex Sharma,l0177@example.invalid,DBM,BP301,Asia/Singapore,Online,English; Chinese,Inactive,BP301
+L0178,Emily Wilson 178,l0178@example.invalid,DDM,MK201,Asia/Singapore,Online; Face-to-face,English,Active,MK201; CB201
+L0179,Lucas Davis,l0179@example.invalid,DPM,AG301,Asia/Singapore,Face-to-face,English,Active,AG301
+L0180,Ryan Win 180,l0180@example.invalid,DBC,CM201,Asia/Singapore,Online; Face-to-face,English; Chinese,Active,CM201; BW201
+L0181,Aisha Brown,l0181@example.invalid,DIT,DB201,Asia/Singapore,Online,English; Myanmar,Active,DB201
+L0182,Alex Clark,l0182@example.invalid,DSD,FE201,Asia/Singapore,Online; Face-to-face,English,Active,FE201
+L0183,Nandar Zin,l0183@example.invalid,DDA,SF101,Asia/Singapore,Online,English,Active,SF101; EX201
+L0184,Kyaw Nguyen,l0184@example.invalid,DAI,PY101,Asia/Singapore,Online; Face-to-face,English,Active,PY101; SF101
+L0185,Su Wilson,l0185@example.invalid,DCC,LX201,Asia/Singapore,Online,English; Chinese,Active,LX201
+L0186,Kyaw Kim,l0186@example.invalid,DCS,CY301,Asia/Singapore,Face-to-face,English; Chinese,Active,CY301
+L0187,Mina Lim,l0187@example.invalid,DBM,HR201,Asia/Singapore,Online,English; Chinese,Active,HR201; BS301
+L0188,Aisha Brown 188,l0188@example.invalid,DDM,MT301,Asia/Singapore,Online,English; Myanmar,Active,MT301
+L0189,Htet Taylor,l0189@example.invalid,DPM,PP201,Asia/Singapore,Online,English; Myanmar,Active,PP201; PS201
+L0190,Lucas Lim,l0190@example.invalid,DBC,NG201,Asia/Singapore,Face-to-face,English; Myanmar,Active,NG201; IC201
+L0191,Kyaw Aung,l0191@example.invalid,DIT,PF101,Asia/Singapore,Online,English,Active,PF101; PY101
+L0192,Hana Kumar,l0192@example.invalid,DSD,BE201,Asia/Singapore,Online,English; Chinese,Active,BE201; ST301
+L0193,David Thet,l0193@example.invalid,DDA,EX201,Asia/Singapore,Online,English; Myanmar,Active,EX201; SQ201
+L0194,Thiri Aung,l0194@example.invalid,DAI,DP201,Asia/Singapore,Face-to-face,English; Myanmar,Active,DP201; ML301
+L0195,David Win,l0195@example.invalid,DCC,CF101,Asia/Singapore,Online; Face-to-face,English; Chinese,Active,CF101; CL301
+L0196,Chloe Win,l0196@example.invalid,DCS,LX201,Asia/Singapore,Online; Face-to-face,English; Chinese,Active,LX201; CY301
+L0197,Mya Rahman,l0197@example.invalid,DBM,MG201,Asia/Singapore,Online; Face-to-face,English,Active,MG201
+L0198,Ko Wilson,l0198@example.invalid,DDM,CB201,Asia/Singapore,Online,English; Myanmar,Active,CB201; CT201
+L0199,Aisha Clark,l0199@example.invalid,DPM,AG301,Asia/Singapore,Online,English; Myanmar,Active,AG301; PM301
+L0200,Emily Nguyen,l0200@example.invalid,DBC,CM201,Asia/Singapore,Online,English; Myanmar,Active,CM201; BW201
+L0201,Su Tan,l0201@example.invalid,DIT,NW201,Asia/Singapore,Online; Face-to-face,English; Chinese,Active,NW201
+L0202,Yadanar Martin,l0202@example.invalid,DSD,PF101,Asia/Singapore,Online,English,Active,PF101
+L0203,Zaw Rahman,l0203@example.invalid,DDA,EX201,Asia/Singapore,Online; Face-to-face,English,Active,EX201; SQ201
+L0204,May Tan,l0204@example.invalid,DAI,SF101,Asia/Singapore,Face-to-face,English; Chinese,Active,SF101
+L0205,Emily Aung,l0205@example.invalid,DCC,LX201,Asia/Singapore,Online; Face-to-face,English; Myanmar,Inactive,LX201; CF101
+L0206,Liam Thet,l0206@example.invalid,DCS,NS301,Asia/Singapore,Online; Face-to-face,English; Myanmar,Active,NS301
+L0207,Nandar Nguyen,l0207@example.invalid,DBM,BS301,Asia/Singapore,Online; Face-to-face,English; Chinese,Active,BS301; BP301
+L0208,Liam Nguyen,l0208@example.invalid,DDM,CT201,Asia/Singapore,Face-to-face,English,Active,CT201; SM201
+L0209,Sofia Aung,l0209@example.invalid,DPM,PM301,Asia/Singapore,Online,English; Chinese,Active,PM301
+L0210,Zaw Aung,l0210@example.invalid,DBC,IC201,Asia/Singapore,Online,English,Active,IC201
+L0211,Min Thet,l0211@example.invalid,DIT,PF101,Asia/Singapore,Online,English; Myanmar,Active,PF101; PY101
+L0212,Kyaw Sharma,l0212@example.invalid,DSD,BE201,Asia/Singapore,Online,English,Active,BE201
+L0213,Aisha Garcia 213,l0213@example.invalid,DDA,VI201,Asia/Singapore,Online,English; Chinese,Active,VI201; AP301
+L0214,Yadanar Win,l0214@example.invalid,DAI,DL301,Asia/Singapore,Online; Face-to-face,English; Myanmar,Active,DL301; GA301
+L0215,Ibrahim Wong,l0215@example.invalid,DCC,NW201,Asia/Singapore,Online,English; Myanmar,Active,NW201; LX201
+L0216,Sara Tan 216,l0216@example.invalid,DCS,IT101,Asia/Singapore,Face-to-face,English,Active,IT101
+L0217,Cherry Aung,l0217@example.invalid,DBM,HR201,Asia/Singapore,Online,English; Myanmar,Active,HR201
+L0218,Grace Smith,l0218@example.invalid,DDM,SEO201,Asia/Singapore,Face-to-face,English; Chinese,Active,SEO201; MT301
+L0219,Ei Thet,l0219@example.invalid,DPM,RM201,Asia/Singapore,Face-to-face,English; Chinese,Active,RM201; AG301
+L0220,Noah Chen,l0220@example.invalid,DBC,PE101,Asia/Singapore,Online; Face-to-face,English; Myanmar,Active,PE101
+L0221,Sofia Nguyen,l0221@example.invalid,DIT,NW201,Asia/Singapore,Online; Face-to-face,English; Myanmar,Active,NW201; IP301
+L0222,Nandar Kim,l0222@example.invalid,DSD,ST301,Asia/Singapore,Online,English; Chinese,Active,ST301; SP301
+L0223,Aaron Kumar,l0223@example.invalid,DDA,AP301,Asia/Singapore,Online,English; Myanmar,Active,AP301
+L0224,Mila Martin 224,l0224@example.invalid,DAI,DL301,Asia/Singapore,Face-to-face,English; Myanmar,Active,DL301; GA301
+L0225,Aisha Singh,l0225@example.invalid,DCC,CP301,Asia/Singapore,Face-to-face,English; Chinese,Active,CP301
+L0226,Ko Rahman,l0226@example.invalid,DCS,NS301,Asia/Singapore,Online,English; Myanmar,Active,NS301; IR301
+L0227,Lucas Zin,l0227@example.invalid,DBM,HR201,Asia/Singapore,Online,English; Chinese,Active,HR201
+L0228,Grace Thet,l0228@example.invalid,DDM,SEO201,Asia/Singapore,Face-to-face,English; Chinese,Active,SEO201; MT301
+L0229,Mei Anderson 229,l0229@example.invalid,DPM,PP201,Asia/Singapore,Online,English; Chinese,Active,PP201; PS201
+L0230,Aung Zin,l0230@example.invalid,DBC,PE101,Asia/Singapore,Face-to-face,English; Chinese,Active,PE101; CM201
+L0231,Thiri Singh,l0231@example.invalid,DIT,PY101,Asia/Singapore,Online; Face-to-face,English; Myanmar,Active,PY101
+L0232,Ibrahim Win 232,l0232@example.invalid,DSD,DB201,Asia/Singapore,Face-to-face,English; Chinese,Active,DB201
+L0233,Emily Clark,l0233@example.invalid,DDA,EX201,Asia/Singapore,Face-to-face,English; Chinese,Active,EX201; SQ201
+L0234,Cherry Smith,l0234@example.invalid,DAI,DP201,Asia/Singapore,Online,English; Chinese,Active,DP201
+L0235,Zaw Hlaing,l0235@example.invalid,DCC,CF101,Asia/Singapore,Online,English; Chinese,Active,CF101
+L0236,Grace Smith 236,l0236@example.invalid,DCS,LX201,Asia/Singapore,Face-to-face,English; Myanmar,Active,LX201
+L0237,Cherry Park,l0237@example.invalid,DBM,MG201,Asia/Singapore,Online,English; Myanmar,Active,MG201
+L0238,Arjun Brown,l0238@example.invalid,DDM,MT301,Asia/Singapore,Face-to-face,English; Myanmar,Active,MT301
+L0239,Nathan Chen,l0239@example.invalid,DPM,PS201,Asia/Singapore,Face-to-face,English; Myanmar,Active,PS201; RM201
+L0240,Yadanar Liu 240,l0240@example.invalid,DBC,PE101,Asia/Singapore,Face-to-face,English; Chinese,Active,PE101; CM201
+L0241,Cherry Martin,l0241@example.invalid,DIT,WD201,Asia/Singapore,Face-to-face,English; Chinese,Active,WD201; NW201
+L0242,Aaron Johnson,l0242@example.invalid,DSD,PY101,Asia/Singapore,Online,English; Myanmar,Active,PY101; DB201
+L0243,Aung Wong,l0243@example.invalid,DDA,VI201,Asia/Singapore,Online; Face-to-face,English; Myanmar,Active,VI201; AP301
+L0244,Htet Martin,l0244@example.invalid,DAI,SF101,Asia/Singapore,Face-to-face,English; Chinese,Inactive,SF101; DP201
+L0245,Sara Sharma,l0245@example.invalid,DCC,LX201,Asia/Singapore,Face-to-face,English; Myanmar,Active,LX201; CF101
+L0246,Mina Singh,l0246@example.invalid,DCS,LX201,Asia/Singapore,Online; Face-to-face,English,Active,LX201
+L0247,Nathan Aung,l0247@example.invalid,DBM,HR201,Asia/Singapore,Online; Face-to-face,English; Myanmar,Active,HR201; BS301
+L0248,Cherry Davis,l0248@example.invalid,DDM,SM201,Asia/Singapore,Online,English,Active,SM201
+L0249,Priya Rahman,l0249@example.invalid,DPM,MG201,Asia/Singapore,Online; Face-to-face,English; Myanmar,Active,MG201; PP201
+L0250,Mei Sharma,l0250@example.invalid,DBC,CM201,Asia/Singapore,Online; Face-to-face,English; Myanmar,Active,CM201
+L0251,Ethan Liu,l0251@example.invalid,DIT,NW201,Asia/Singapore,Face-to-face,English; Myanmar,Active,NW201
+L0252,Lucas Kim,l0252@example.invalid,DSD,PY101,Asia/Singapore,Online; Face-to-face,English; Myanmar,Active,PY101; DB201
+L0253,Priya Wong,l0253@example.invalid,DDA,SF101,Asia/Singapore,Online; Face-to-face,English; Chinese,Active,SF101; EX201
+L0254,David Nguyen,l0254@example.invalid,DAI,DP201,Asia/Singapore,Online; Face-to-face,English,Active,DP201; ML301
+L0255,Liam Patel 255,l0255@example.invalid,DCC,NW201,Asia/Singapore,Online,English; Myanmar,Active,NW201; LX201
+L0256,Mya Kumar,l0256@example.invalid,DCS,LX201,Asia/Singapore,Face-to-face,English; Chinese,Active,LX201; CY301
+L0257,Chloe Oo,l0257@example.invalid,DBM,BP301,Asia/Singapore,Online,English; Chinese,Active,BP301
+L0258,Mei Thet,l0258@example.invalid,DDM,CB201,Asia/Singapore,Online,English; Myanmar,Active,CB201; CT201
+L0259,David Tan,l0259@example.invalid,DPM,PP201,Asia/Singapore,Face-to-face,English; Chinese,Active,PP201; PS201
+L0260,Liam Nguyen 260,l0260@example.invalid,DBC,BW201,Asia/Singapore,Online,English; Myanmar,Active,BW201; PR201
+L0261,Mei Tan 261,l0261@example.invalid,DIT,NW201,Asia/Singapore,Online; Face-to-face,English; Chinese,Active,NW201; IP301
+L0262,Ryan Aung,l0262@example.invalid,DSD,PY101,Asia/Singapore,Online,English; Myanmar,Active,PY101
+L0263,Chloe Clark,l0263@example.invalid,DDA,EX201,Asia/Singapore,Online,English; Chinese,Active,EX201; SQ201
+L0264,Liam Sharma 264,l0264@example.invalid,DAI,GA301,Asia/Singapore,Online; Face-to-face,English; Chinese,Active,GA301; AI401
+L0265,Mei Liu,l0265@example.invalid,DCC,NW201,Asia/Singapore,Face-to-face,English; Myanmar,Active,NW201; LX201
+L0266,Chloe Sharma,l0266@example.invalid,DCS,LX201,Asia/Singapore,Online; Face-to-face,English,Active,LX201; CY301
+L0267,Arjun Anderson,l0267@example.invalid,DBM,BP301,Asia/Singapore,Face-to-face,English; Chinese,Active,BP301
+L0268,Aisha Martin 268,l0268@example.invalid,DDM,CT201,Asia/Singapore,Face-to-face,English; Myanmar,Active,CT201
+L0269,Ko Singh,l0269@example.invalid,DPM,PM301,Asia/Singapore,Face-to-face,English; Myanmar,Active,PM301
+L0270,Ko Wilson 270,l0270@example.invalid,DBC,CM201,Asia/Singapore,Online; Face-to-face,English; Myanmar,Active,CM201
+L0271,Ko Smith,l0271@example.invalid,DIT,IT101,Asia/Singapore,Face-to-face,English,Active,IT101
+L0272,Mila Oo,l0272@example.invalid,DSD,PF101,Asia/Singapore,Online,English; Myanmar,Active,PF101; PY101
+L0273,Arjun Anderson 273,l0273@example.invalid,DDA,EX201,Asia/Singapore,Face-to-face,English,Active,EX201; SQ201
+L0274,Oliver Thet 274,l0274@example.invalid,DAI,ML301,Asia/Singapore,Online,English; Myanmar,Active,ML301; DL301
+L0275,Jasmine Brown,l0275@example.invalid,DCC,DV301,Asia/Singapore,Online; Face-to-face,English; Chinese,Active,DV301; CP301
+L0276,Lucas Patel,l0276@example.invalid,DCS,CY301,Asia/Singapore,Online,English,Inactive,CY301
+L0277,Noah Aung,l0277@example.invalid,DBM,BS301,Asia/Singapore,Face-to-face,English; Myanmar,Active,BS301; BP301
+L0278,May Chen,l0278@example.invalid,DDM,SM201,Asia/Singapore,Online; Face-to-face,English; Chinese,Active,SM201; SEO201
+L0279,Arjun Liu,l0279@example.invalid,DPM,PM301,Asia/Singapore,Online; Face-to-face,English; Chinese,Active,PM301
+L0280,Ibrahim Davis,l0280@example.invalid,DBC,NG201,Asia/Singapore,Online; Face-to-face,English; Myanmar,Active,NG201; IC201
+L0281,Nathan Aung 281,l0281@example.invalid,DIT,DB201,Asia/Singapore,Face-to-face,English; Chinese,Active,DB201; WD201
+L0282,Mei Garcia,l0282@example.invalid,DSD,FE201,Asia/Singapore,Online,English; Chinese,Active,FE201
+L0283,Min Wong,l0283@example.invalid,DDA,VI201,Asia/Singapore,Online,English; Chinese,Active,VI201; AP301
+L0284,Kyaw Win,l0284@example.invalid,DAI,PY101,Asia/Singapore,Face-to-face,English; Chinese,Active,PY101
+L0285,Hana Win,l0285@example.invalid,DCC,LX201,Asia/Singapore,Online; Face-to-face,English; Chinese,Active,LX201; CF101
+L0286,Priya Sharma,l0286@example.invalid,DCS,IR301,Asia/Singapore,Online; Face-to-face,English,Active,IR301
+L0287,Mina Liu,l0287@example.invalid,DBM,MK201,Asia/Singapore,Online,English,Active,MK201; AC201
+L0288,Liam Nguyen 288,l0288@example.invalid,DDM,CT201,Asia/Singapore,Online,English; Myanmar,Active,CT201; SM201
+L0289,Lucas Wilson,l0289@example.invalid,DPM,RM201,Asia/Singapore,Face-to-face,English,Active,RM201; AG301
+L0290,Mila Smith,l0290@example.invalid,DBC,BW201,Asia/Singapore,Online; Face-to-face,English; Chinese,Active,BW201; PR201
+L0291,Lucas Brown,l0291@example.invalid,DIT,NW201,Asia/Singapore,Online; Face-to-face,English,Active,NW201; IP301
+L0292,Ibrahim Kumar 292,l0292@example.invalid,DSD,PY101,Asia/Singapore,Online; Face-to-face,English; Myanmar,Active,PY101
+L0293,Ko Nguyen,l0293@example.invalid,DDA,AP301,Asia/Singapore,Online; Face-to-face,English; Chinese,Active,AP301
+L0294,Aisha Thet,l0294@example.invalid,DAI,DP201,Asia/Singapore,Face-to-face,English; Myanmar,Active,DP201
+L0295,Liam Garcia,l0295@example.invalid,DCC,CL301,Asia/Singapore,Online,English,Active,CL301; DV301
+L0296,Hana Sharma,l0296@example.invalid,DCS,LX201,Asia/Singapore,Online,English; Chinese,Active,LX201; CY301
+L0297,May Patel 297,l0297@example.invalid,DBM,AC201,Asia/Singapore,Face-to-face,English; Myanmar,Active,AC201
+L0298,Priya Park,l0298@example.invalid,DDM,MT301,Asia/Singapore,Online; Face-to-face,English; Myanmar,Inactive,MT301
+L0299,Daniel Patel,l0299@example.invalid,DPM,PS201,Asia/Singapore,Face-to-face,English,Active,PS201; RM201
+L0300,Chloe Win 300,l0300@example.invalid,DBC,PE101,Asia/Singapore,Face-to-face,English; Chinese,Inactive,PE101; CM201

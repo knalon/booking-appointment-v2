@@ -1,0 +1,6 @@
+# React faculty editing correction
+Apply over React Admin & Expertise Patch v1. Merge only the included files. No migration, reseeding or new dependencies. Restart both servers and refresh localhost:5173.
+
+The expertise editor formerly rendered below the list; it now opens in a native modal dialog. The profile editor now saves through PATCH /api/directory/faculty/<id>/ with staff session authentication and CSRF. Profile identifiers and account links remain unchanged. English is mandatory; qualifications referenced by expertise cannot be removed before updating that expertise. Other existing catalogue and CSV pages retain their prior behaviour. Django Admin remains available for technical operations pending React migration.
+
+Test: open Faculty, view a record, edit profile, change a reversible field and save, reopen to verify. Edit an expertise level, save, reopen. Verify topic filtering, cancellation and invalid language rejection. Run `python manage.py test apps.directory.test_management_api` using a disposable test database (Django creates one; MySQL user needs permission). Never point a test runner at an existing production database. Python and JSX syntax checked; actual React build and Django/MySQL runtime not tested here.

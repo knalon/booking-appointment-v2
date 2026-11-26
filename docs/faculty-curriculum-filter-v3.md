@@ -1,0 +1,2 @@
+# Faculty curriculum filter v3
+Requires React Faculty Edit Patch v2. Merge backend, frontend and docs. Restart both servers. No migrations or reseeding. Teaching assignments must belong to active curricula of selected active qualifications. Existing incompatible assignments are shown separately and require explicit removal or restored qualification. Expertise outside taught modules remains a separate feature. Run python manage.py test apps.directory.test_management_api with a test database-capable MySQL account.
