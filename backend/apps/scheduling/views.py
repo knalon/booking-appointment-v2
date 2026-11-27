@@ -124,6 +124,8 @@ class Schedule(APIView):
         if not draft.recommendations.exists(): create_run(draft)
         result=checked(lambda:automatic_build(draft));run=ScheduleRun.objects.create(draft=draft,result=result)
         SlotSelection.objects.filter(draft=draft).delete()
+        from apps.coordinator.services import sync_case
+        sync_case(draft.pk)
         return Response(payload(request,draft,run),status=201)
     @transaction.atomic
     def patch(self,request,pk):

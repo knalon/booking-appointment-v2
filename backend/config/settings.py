@@ -18,6 +18,7 @@ INSTALLED_APPS = [
     "apps.nlp",
     "apps.matching",
     "apps.scheduling",
+    "apps.coordinator",
 ]
 MIDDLEWARE = [
     "django.middleware.security.SecurityMiddleware",
@@ -77,3 +78,14 @@ REST_FRAMEWORK = {
 CORS_ALLOWED_ORIGINS = os.getenv(
     "CORS_ALLOWED_ORIGINS", "http://localhost:5173"
 ).split(",")
+
+# Teams creation is opt-in; signed flow URL is a backend-only secret.
+TEAMS_INTEGRATION_ENABLED = os.getenv('TEAMS_INTEGRATION_ENABLED','False').lower() == 'true'
+TEAMS_TEST_MODE = os.getenv('TEAMS_TEST_MODE','True').strip().lower() != 'false'
+POWER_AUTOMATE_MEETING_URL = os.getenv('POWER_AUTOMATE_MEETING_URL','')
+TEAMS_TEST_FACULTY_EMAIL = os.getenv('TEAMS_TEST_FACULTY_EMAIL','')
+TEAMS_TEST_LEARNER_EMAIL = os.getenv('TEAMS_TEST_LEARNER_EMAIL','')
+TEAMS_ALLOWED_EMAILS = os.getenv('TEAMS_ALLOWED_EMAILS','')
+
+# Optional restriction for registered profile email mode; empty permits any valid domain.
+TEAMS_REGISTERED_EMAIL_DOMAINS = os.getenv('TEAMS_REGISTERED_EMAIL_DOMAINS','')

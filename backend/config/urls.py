@@ -12,5 +12,6 @@ urlpatterns = [
     path("api/imports/", include("apps.data_imports.urls")),
     path("api/nlp/", include("apps.nlp.urls")),
     path("api/matching/", include("apps.matching.urls")),
+    path("api/coordinator/", include("apps.coordinator.urls")),
     path("api/scheduling/", include("apps.scheduling.urls")),
 ]

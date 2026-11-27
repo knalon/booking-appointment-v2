@@ -64,6 +64,8 @@ def deadline(start): return min(start,timezone.now()+timedelta(hours=24))
 def expire(a):
     if a.status in HELD and a.expires_at<=timezone.now():
         a.status='expired';a.save(update_fields=['status','updated_at']);event(a,None,'expired')
+        from .teams import on_transition
+        on_transition(a)
         notify(a,a.draft.session.owner_id,'Appointment request expired. You may select another time.')
         notify(a,a.faculty.user_id,'An appointment request expired and its slot was released.')
         return True
@@ -94,7 +96,10 @@ def transition(pk,user,action,data):
     is_learner=user.pk==draft.session.owner_id and not user.is_staff
     is_faculty=user.pk==faculty.user_id and not user.is_staff
     if not (is_learner or is_faculty or user.is_staff): raise PermissionDenied()
-    if expire(a): return a
+    if expire(a):
+        from apps.coordinator.services import sync_case
+        sync_case(draft.pk)
+        return a
     before={'status':a.status,'start':a.start.isoformat(),'end':a.end.isoformat()}
     reason=data.get('reason','')
     if not isinstance(reason,str) or len(reason)>500: raise ValidationError('Reason must be at most 500 characters.')
@@ -114,8 +119,14 @@ def transition(pk,user,action,data):
     elif action in ('complete','no_show') and (is_faculty or user.is_staff) and a.status=='confirmed' and a.end<=timezone.now():
         a.status='completed' if action=='complete' else 'no_show'
     else: raise ValidationError('This action is not permitted for the current appointment state.')
-    a.save();event(a,user,action,{'previous':before,'reason':reason,'status':a.status,'start':a.start.isoformat(),'end':a.end.isoformat()})
+    a.save()
+    from .teams import on_transition
+    on_transition(a)
+    event(a,user,action,{'previous':before,'reason':reason,'status':a.status,'start':a.start.isoformat(),'end':a.end.isoformat()})
     message={'confirmed':'Appointment confirmed.','declined':'Appointment declined. You may choose another time.','cancelled':'Appointment cancelled.','reschedule_requested':'Faculty proposed a different time. Review the appointment.','completed':'Consultation marked completed.','no_show':'Consultation marked no-show.'}[a.status]
     for uid in {draft.session.owner_id,faculty.user_id}:
         if uid!=user.pk: notify(a,uid,message)
+    if a.status=='declined':
+        from apps.coordinator.services import sync_case
+        sync_case(draft.pk)
     return a

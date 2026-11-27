@@ -66,4 +66,8 @@ def calculate(draft, policy, version):
 def create_run(draft):
     row,policy=active_policy(); run=RecommendationRun(draft=draft,policy=row)
     result=calculate(draft,policy,row.pk if row else 'original-v1');result.update(recommendation_id=str(run.pk),generated_at=timezone.now().isoformat())
-    run.result=result;run.save();return run
+    run.result=result;run.save()
+    if result['status']=='needs_review':
+        from apps.coordinator.services import sync_case
+        sync_case(draft.pk)
+    return run

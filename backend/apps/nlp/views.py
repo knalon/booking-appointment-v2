@@ -81,6 +81,9 @@ class SessionDetail(Base):
         if action=='confirm':
             s.draft.confirmed_at=timezone.now();s.draft.final_result=build_result(s,data,ctx);s.status='confirmed';s.save(update_fields=['status'])
         s.draft.save()
+        if action=='confirm':
+            from apps.coordinator.services import sync_case
+            sync_case(s.draft.pk)
         return Response(state(s))
 class Turn(Base):
     throttle_classes=[TurnThrottle]
@@ -107,6 +110,8 @@ class Turn(Base):
             reply={'en':'Request confirmed. No appointment has been booked.','my':'ဆွေးနွေးမှုလိုအပ်ချက် အတည်ပြုပြီးပါပြီ။ ရက်ချိန်းမသတ်မှတ်ရသေးပါ။','zh':'咨询需求已确认，尚未预约。'}[lang]
             ConversationMessage.objects.bulk_create([ConversationMessage(session=s,role='user',content=text),ConversationMessage(session=s,role='assistant',content=reply)])
             s.turns+=1; s.status='confirmed'; s.save()
+            from apps.coordinator.services import sync_case
+            sync_case(s.draft.pk)
             return Response(state(s))
         try: result,inp,out=converse(history,normalize_draft(s.draft.data),context,s.turns+1)
         except NLPError as e: return Response({'detail':str(e)},status=e.status)
